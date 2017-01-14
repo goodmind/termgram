@@ -34,5 +34,6 @@ node_modules
 *.iml
 *.ipr
 .idea
+.vscode
 .classpath
 .project
