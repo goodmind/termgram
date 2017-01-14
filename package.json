@@ -19,7 +19,7 @@
     "url": "https://github.com/enricostara/termgram/issues"
   },
   "dependencies": {
-    "telegram.link": "latest",
+    "@goodmind/telegram.link": "latest",
     "colors": "latest",
     "mute-stream": "latest",
     "requirish": "latest",
