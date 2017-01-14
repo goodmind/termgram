@@ -1,7 +1,10 @@
 {
-  "name": "termgram",
+  "name": "@goodmind/termgram",
   "version": "0.2.1",
   "description": "Termgram App",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "telegram",
     "terminal",
