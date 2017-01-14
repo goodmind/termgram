@@ -1,6 +1,6 @@
 # <img src="./termgram.png"/> 
 
-##TERMGRAM
+## @goodmind/termgram
 
 ###A terminal client to connect with [Telegram](http://www.telegram.org).
 
